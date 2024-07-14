@@ -36,7 +36,7 @@ Nessa aplicação são utilizadas duas tabelas, carrinho e usuario
 
 ## Fluxograma
 
-Este projeto envolve a integração das seções da API (FLAS) com a comunicação com o banco de dados MYSQL.
+Este projeto envolve a integração das seções da API (FLASK) com a comunicação com o banco de dados MYSQL.
 
 ![Fluxograma da API CEP](https://drive.google.com/uc?export=view&id=1U9g5ff8OsP1tmSop7i7xAdokDXgwdGg0)
 
